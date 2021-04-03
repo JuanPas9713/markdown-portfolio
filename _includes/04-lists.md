@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Hotel
+* Restaurant
+  * Doña Vicky
+  * La Rotonda ♥️ 🥇
